@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Header from "./Containers/Header";
-import productListing from "./Containers/productListing";
+import productListing from "./Containers/ProductListing";
 import ProductDetail from "./Containers/ProductDetail";
 import "./App.css";
 
